@@ -18,7 +18,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.umesh.bmicalculator.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.DarkGreen
 
 @Composable
 fun PageIndicator(

@@ -12,7 +12,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.navigation.NavController
-import com.umesh.bmicalculator.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.DarkGreen
 
 
 @Composable

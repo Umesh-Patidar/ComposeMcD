@@ -24,8 +24,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.umesh.composemcd.model.Category
 import com.umesh.composemcd.model.categories
-import com.umesh.bmicalculator.ui.theme.DarkGreen
-import com.umesh.bmicalculator.ui.theme.LightThinGrey
+import com.umesh.composemcd.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.LightThinGrey
 
 @Composable
 fun FoodCategory(

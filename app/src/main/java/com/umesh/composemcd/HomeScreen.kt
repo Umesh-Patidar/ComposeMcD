@@ -30,7 +30,7 @@ import com.umesh.composemcd.component.FoodCategory
 import com.umesh.composemcd.model.Category
 import com.umesh.composemcd.model.categories
 import com.umesh.composemcd.model.foods
-import com.umesh.bmicalculator.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.DarkGreen
 
 @Composable
 fun HomeScreen(

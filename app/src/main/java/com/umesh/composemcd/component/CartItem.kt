@@ -27,7 +27,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.umesh.composemcd.model.Food
 import com.umesh.composemcd.model.foods
-import com.umesh.bmicalculator.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.DarkGreen
 
 @Composable
 fun CartItem(modifier: Modifier = Modifier, food: Food) {

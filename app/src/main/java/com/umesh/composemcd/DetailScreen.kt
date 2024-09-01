@@ -34,7 +34,7 @@ import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.umesh.bmicalculator.ui.theme.DarkGreen
+import com.umesh.composemcd.ui.theme.DarkGreen
 import com.umesh.composemcd.component.CartButton
 import com.umesh.composemcd.component.CustomButton
 import com.umesh.composemcd.component.CustomMenuBar

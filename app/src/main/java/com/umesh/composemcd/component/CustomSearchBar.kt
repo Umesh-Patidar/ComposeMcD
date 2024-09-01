@@ -26,7 +26,7 @@ import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.umesh.composemcd.R
-import com.umesh.bmicalculator.ui.theme.LightThinGrey
+import com.umesh.composemcd.ui.theme.LightThinGrey
 
 @Composable
 fun CustomSearchBar() {
