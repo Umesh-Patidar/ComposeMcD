@@ -28,8 +28,6 @@ This sample showcases:
 
 [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
-[Shared element for smooth animation](https://developer.android.com/develop/ui/compose/animation/shared-elements) - Shared element transitions are a seamless way to transition between composables that have content that is consistent between them.
-
 [Navigation compose for Android](https://developer.android.com/develop/ui/compose/navigation) - The Navigation component provides support for Jetpack Compose applications. You can navigate between composables while taking advantage of the Navigation component's infrastructure and features.
 
 [Lottie Animation](https://github.com/airbnb/lottie-android) - Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
